@@ -7,7 +7,7 @@
     @vite('resources/css/app.css')
     
     {{-- Favicon --}}
-    <link rel="icon" href="https://res.cloudinary.com/ddc0f90ph/image/upload/v1752585105/Group_2_etqjrh.svg" type="image/x-icon">
+    <link rel="icon" href="https://res.cloudinary.com/ddc0f90ph/image/upload/v1752585105/Group_2_etqjrh.svg" type="image/svg+xml">
 
 
     <style>
