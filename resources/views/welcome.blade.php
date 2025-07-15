@@ -7,8 +7,7 @@
     @vite('resources/css/app.css')
     
     {{-- Favicon --}}
-   <link rel="icon" href="{{ asset('favicon2.ico') }}" type="image/x-icon">
-   <link rel="shortcut icon" href="{{ asset('favicon2.ico') }}" type="image/x-icon">
+   <link rel="icon" href="https://ajarinit.com/favicon2.ico" type="image/x-icon">
 
 
 
