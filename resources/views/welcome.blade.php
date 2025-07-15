@@ -5,6 +5,11 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     @vite('resources/css/app.css')
+    
+    {{-- Favicon --}}
+    <link rel="icon" href="https://res.cloudinary.com/ddc0f90ph/image/upload/v1752585105/Group_2_etqjrh.svg" type="image/x-icon">
+
+
     <style>
         @keyframes scrollLeft {
             0% {
