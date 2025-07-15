@@ -120,7 +120,7 @@
       <p class="text-xl sm:text-2xl italic">Halo!</p>
       <p class="text-2xl sm:text-3xl lg:text-4xl font-bold">Les Komputer Privat</p>
       <p class="text-2xl sm:text-3xl lg:text-4xl font-bold">
-        Surabaya Terbaik
+        Surabaya terbaik
         <span class="relative inline-block">
           <span class="relative z-10">No. 1</span>
           <img src="https://res.cloudinary.com/ddc0f90ph/image/upload/v1751461777/VectorAsset_ye157l.svg"
