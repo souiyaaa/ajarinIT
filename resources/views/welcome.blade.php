@@ -7,7 +7,8 @@
     @vite('resources/css/app.css')
     
     {{-- Favicon --}}
-   <link rel="icon" href="{{ asset('favicon2.ico') }}" type="image/x-icon">
+   <link rel="icon" href="{{ asset('favicon.ico') }}" type="image/x-icon">
+
 
 
 
